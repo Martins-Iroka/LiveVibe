@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LiveVibe</string>
+    <string name="content">L I V E V I B E</string>
+    <string name="logo">L</string>
+    <string name="write_up">Making sure you don\'t miss up on \nall live concerts around you!</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="write_up2">Let\'s get all started so you can \nlink up with the next live concert.</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="sign_in_with_facebook">or sign in with <b>facebook</b></string>
+    <string name="register_text">Don\'t have an account? <b>Register</b></string>
+</resources>
